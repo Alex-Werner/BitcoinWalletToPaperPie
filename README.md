@@ -1,4 +1,4 @@
-BitcoinWalletToPapierPie
+BitcoinWalletToPaperPie
 ========================
 
 This project provide a software written in Python (Py <-> Pie) wich provide some functions : 
